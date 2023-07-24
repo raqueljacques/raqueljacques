@@ -1,19 +1,7 @@
 ## Oie, eu sou a Raquel
 
-Tenho 21 anos e comecei a programar em 2019 quando entrei em um curso técnico em informática. Tive contato com muitas áreas de TI mas a programação ganhou meu coração.
-
 Atualmente eu trabalho como desenvolvedora Fullstack, participo do Programa Desenvolve do Grupo Boticário em parceria com a alura e faço faculdade de análise e desenvolvimento de sistemas.
 
- ### Stack que mais utilizo:
-<div style="display: inline_block">
-  <img align="center" alt="Rack-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rack-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rack-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rack-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Rack-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Rack-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
- 
 <div align="center"> 
   <br>
   <a href = "mailto:raquelv.jacques@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
