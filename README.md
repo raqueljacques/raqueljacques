@@ -1,6 +1,6 @@
 ## Oie, eu sou a Raquel
 
-Atualmente eu trabalho como desenvolvedora Fullstack, participo do Programa Desenvolve do Grupo Boticário em parceria com a alura e faço faculdade de análise e desenvolvimento de sistemas.
+Atualmente eu trabalho como desenvolvedora Backend e faço faculdade de análise e desenvolvimento de sistemas.
 
 <div align="center"> 
   <br>
