@@ -1,7 +1,3 @@
-## Oie, eu sou a Raquel
-
-Atualmente eu trabalho como desenvolvedora Backend e faço faculdade de análise e desenvolvimento de sistemas.
-
 <div align="center"> 
   <br>
   <a href = "mailto:raquelv.jacques@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
